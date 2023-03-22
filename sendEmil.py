@@ -7,7 +7,7 @@ import schedule
 
 class Email:
     email = 'fadilf00100@gmail.com'
-    password = 'nfdjgnohphdxjqib'
+    password = 'nfdjgnohphdxjqib10'
     
     def __init__(self, email, password):
         self.email = email
